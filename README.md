@@ -61,10 +61,14 @@
 
 ### 🚀 Áreas de Atuação & Competências Técnicas
 
-* **Arquitetura WordPress & Plugins:** Criação de soluções sob medida, extensões para Elementor/WooCommerce e rotinas de manutenção preventiva.
-* **E-commerce & Integrações:** Configuração completa de lojas virtuais, regras de checkout, cálculo de frete, gateways de pagamento e comunicação com ERPs corporativos.
-* **Otimização de Performance & SEO:** Implementação de dados estruturados Schema/JSON-LD, estratégias de caching e adequação aos padrões dos Core Web Vitals.
-* **Gestão de Servidores & Alojamento:** Configuração de zonas DNS, contas corporativas, gestão de migrações e rotinas de backup em ambientes cPanel/WHM.
+* **Arquitetura WordPress & Plugins:** 
+Criação de soluções sob medida, extensões para Elementor/WooCommerce e rotinas de manutenção preventiva.
+* **E-commerce & Integrações:** 
+Configuração completa de lojas virtuais, regras de checkout, cálculo de frete, gateways de pagamento e comunicação com ERPs corporativos.
+* **Otimização de Performance & SEO:** 
+Implementação de dados estruturados Schema/JSON-LD, estratégias de caching e adequação aos padrões dos Core Web Vitals.
+* **Gestão de Servidores & Alojamento:** 
+Configuração de zonas DNS, contas corporativas, gestão de migrações e rotinas de backup em ambientes cPanel/WHM.
 
 ---
 
